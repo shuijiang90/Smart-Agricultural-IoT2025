@@ -8,7 +8,13 @@ It supports multiple sensors and actuators and adopts a decoupled design using M
 Project guided by Prof. Lorenzo Bottaccioli & Pietro Rando Mazzarino<br/>
 Team 4 — Yuxuan Wu, Shui Jiang, Ning Zhang
 
+###  Next Step
 
+- Friendly interactive dashbord
+- Ai integreted system on chatbot
+- Ai moisture prediction
+
+---
 
 ###  System Architecture
 
