@@ -11,8 +11,8 @@ Team 4 — Yuxuan Wu, Shui Jiang, Ning Zhang
 ###  Next Step
 
 - Friendly interactive dashbord
-- Ai integreted system on chatbot
-- Ai moisture prediction
+- AI integreted system on chatbot
+- AI moisture prediction
 
 ---
 
