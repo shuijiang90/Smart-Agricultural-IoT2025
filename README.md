@@ -1,4 +1,4 @@
-#  IoT-Based Environmental Monitoring and Control System for Greenhouse
+##  IoT-Based Environmental Monitoring and Control System for Greenhouse
 
 A microservices-based Smart Agriculture system for real-time environmental monitoring and automated greenhouse control.  
 This project collects and analyzes sensor data, triggers actuators based on dynamic thresholds, stores values in AWS DynamoDB, and supports system interaction through a Telegram bot and web RESTful API.
